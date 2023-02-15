@@ -1,0 +1,12 @@
+[{
+  "modid": "ntm",
+  "name": "HBMs nuclear tech mod morganics Edition",
+  "description": "Hbm's Nuclear Tech Mod is, as the name implies, all about technology, atomic science and nuclear weapons. It features an expansive tech tree of various processing and utility machines, craftable bombs and missiles, guns, and abandoned structures to explore. No longer are nukes just green TNT blocks - you will have to synthesize new types of explosives and enrich uranium before you can send nuclear missiles towards your pals.",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Author"],
+  "credits": "I'd like to thank my mother and father."
+}]
